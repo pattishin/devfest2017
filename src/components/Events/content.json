@@ -1,0 +1,5 @@
+{
+    "events": [ "Talks", "Code labs", "Hack-a-thon"],
+    "groups": [ "GDG San Francisco", "GDG Berkley", "GDG Fremont" ],
+    "date": "Event date: ..."
+}
